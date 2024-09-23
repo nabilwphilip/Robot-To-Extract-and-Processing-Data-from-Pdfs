@@ -1,4 +1,4 @@
-Project Overview
+// Project Overview
 This project, developed using UiPath Studio by Mr.Smile, automates the extraction of data from multiple PDF files located in a folder named "Receipts." The PDFs are in image format, requiring Optical Character Recognition (OCR) to convert images into text. The robot processes this text to extract specific values and saves them in an Excel spreadsheet.
 
 // Table of Contents
