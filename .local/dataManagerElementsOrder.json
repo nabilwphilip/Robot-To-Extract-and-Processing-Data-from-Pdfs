@@ -1,0 +1,40 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "bool_PathOfResults&Sequence_10",
+        "referenceIfPathExists&Sequence_1",
+        "bool_Path_Exit&Sequence_9",
+        "DT_Results&Sequence_2",
+        "Arr_Of_Data&Sequence_3",
+        "strSale&Sequence_3",
+        "strQuantity&Sequence_3",
+        "strPrice&Sequence_3",
+        "strMobile_No&Sequence_3",
+        "strVehicle_No&Sequence_3",
+        "strProduct&Sequence_3",
+        "strNozzle_No&Sequence_3",
+        "strNO_Pump&Sequence_3",
+        "strTRX_Type&Sequence_3",
+        "strTRX_ID&Sequence_3",
+        "strTime&Sequence_3",
+        "strDate&Sequence_3",
+        "strReceiptID&Sequence_3",
+        "Receipts_Text&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
