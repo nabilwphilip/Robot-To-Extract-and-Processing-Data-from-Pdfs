@@ -9,7 +9,7 @@
 4. Usage
 5. Post-Conditions
 6. Contact Information
-
+----------------------------------------------------
 1. **Prerequisites**
 * UiPath Studio installed on your machine.
 * Access to the folder containing PDF files named "Receipts."
